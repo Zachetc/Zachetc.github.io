@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zachetc.github.io/sitemap.xml
